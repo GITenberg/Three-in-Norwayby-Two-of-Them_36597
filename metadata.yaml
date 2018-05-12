@@ -1,0 +1,33 @@
+_repo: Three-in-Norwayby-Two-of-Them_36597
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Lees, J. A. (James Arthur)
+    alias: Lees, James Arthur
+    birthdate: 1852
+    gutenberg_agent_id: '38402'
+    url: http://www.gutenberg.org/2009/agents/38402
+  - agent_name: Clutterbuck, Walter J.
+    alias: Clutterbuck, W. J. (Walter J.)
+    birthdate: 1853
+    deathdate: 1937
+    gutenberg_agent_id: '38403'
+    url: http://www.gutenberg.org/2009/agents/38403
+description: ''
+gutenberg_issued: '2011-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Norway -- Description and travel'
+- !lcsh 'Fishing -- Norway'
+title: Three in Norway, by Two of Them
+url: http://www.gutenberg.org/ebooks/36597
